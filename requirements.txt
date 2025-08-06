@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+lxml
+fake-useragent
+tqdm
+selenium
+playwright
+reportlab
+python-docx
+pypandoc
+colorama
